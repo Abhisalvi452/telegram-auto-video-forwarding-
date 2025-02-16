@@ -1,0 +1,10 @@
+{
+    "api_id": "your_api_id",
+    "api_hash": "your_api_hash",
+    "source_channel": "https://t.me/your_source_channel",
+    "destination_channel": "https://t.me/your_destination_channel",
+    "message_types": ["video", "photo", "text", "document", "link"],
+    "max_messages_per_run": 1000,
+    "min_delay": 1,
+    "max_delay": 3
+}

@@ -11,8 +11,8 @@ This repository contains a Python script to automatically forward messages from 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/telegram-auto-forwarding.git
-    cd telegram-auto-forwarding
+    git clone https://github.com/Abhisalvi452/telegram-auto-video-forwarding
+    cd elegram-auto-video-forwarding
     ```
 
 2. Install the required dependencies:
